@@ -1,5 +1,5 @@
 {
-  "homepage": "https://SethNdagijimana.github.io/MyPortfolio",
+  "homepage": "https://SethNdagijimana.github.io/portfolio",
   "name": "portofolio",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,8 @@
     "react-scripts": "^5.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "install-peers": "^1.0.3"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -35,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependecies":{
+    "gh-pages": "^3.2.3"
   }
 }
