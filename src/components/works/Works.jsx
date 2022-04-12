@@ -11,7 +11,7 @@ export default function Works() {
             icon: "./assets/mobile.png",
             title: "Web Design",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+              " The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software",
             img:
               "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
           },
@@ -20,7 +20,7 @@ export default function Works() {
             icon: "./assets/globe.png",
             title: "Mobile Application",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "A mobile application or app is a computer program or software application designed to run on a mobile device such as a phone, tablet, or watch",
             img:
               "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
           },
@@ -29,7 +29,7 @@ export default function Works() {
             icon: "./assets/writing.png",
             title: "Branding",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "Branding is the process of researching, developing, and applying a distinctive feature or set of features to your organization so that consumers can begin to associate your brand with your products or services",
             img:
               "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
           },

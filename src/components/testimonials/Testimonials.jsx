@@ -15,13 +15,13 @@ export default function Testimonials() {
         },
         {
           id: 2,
-          name: "Alex Kalinski",
-          title: "Co-Founder of DELKA",
+          name: "Betina Ishimwe",
+          title: "Co-Founder of Noneho barasara",
           img:
-            "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+            "assets/betina.jpeg",
           icon: "assets/youtube.png",
           desc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+            "Noneho barasara ni company y'Abari biyemeje umurimo wo kubasaza ",
           featured: true,
         },
         {
