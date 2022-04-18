@@ -5,34 +5,34 @@ export default function Testimonials() {
     const data = [
         {
           id: 1,
-          name: "Tom Durden",
-          title: "Senior Developer",
+          name: "ALICE",
+          title: "Accountant",
           img:
             "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
           icon: "assets/twitter.png",
           desc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+            "An accountant is a professional who is responsible for keeping and interpreting financial records.",
         },
         {
           id: 2,
-          name: "Betina Ishimwe",
-          title: "Co-Founder of Noneho barasara",
+          name: "EMILE",
+          title: "Senior Developer",
           img:
-            "assets/betina.jpeg",
+            "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
           icon: "assets/youtube.png",
           desc:
-            "Noneho barasara ni company y'Abari biyemeje umurimo wo kubasaza ",
+            "a senior developer performs various development duties, such as coding and web development. Senior developers may specialize in a specific area, oversee projects, and manage junior developers. ",
           featured: true,
         },
         {
           id: 3,
-          name: "Martin Harold",
-          title: "CEO of ALBI",
+          name: "Rachel",
+          title: "CEO of RAY STORE",
           img:
             "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
           icon: "assets/linkedin.png",
           desc:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+            "Fashion refers to a distinctive and often habitual trend in the style with which a person dresses, as well as to prevailing styles in behaviour.",
         },
       ];
     return (
